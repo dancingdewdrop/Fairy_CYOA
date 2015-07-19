@@ -1,0 +1,25 @@
+h1{
+  color:green;
+  font-size:40px;
+}
+
+h2{
+  color:#CD00CD;
+  font-size:30px;
+}
+
+h3{
+  
+}
+
+div{
+  float:left;
+  background:#B0E2FF;
+  margin:15px;
+  padding:3px;
+}
+
+#image{
+  float:right;
+  background:white;
+}
